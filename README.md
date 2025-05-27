@@ -1,4 +1,5 @@
-# 🎧 Apple Music Dashboard Project
+# Apple Music Dashboard Project
+![image](https://github.com/user-attachments/assets/8255e779-75c7-41b2-86d0-7dcd9e285780)
 
 ## Overview
 
